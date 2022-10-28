@@ -1,2 +1,2 @@
-# basetball_scoreboard
+# basketball_scoreboard
  track scrore with precious number
